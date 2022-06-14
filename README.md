@@ -6,4 +6,4 @@ Experience in:
 - HTML, CSS, JavaScript
 - Ruby & Rails 
 
-I am currently learning more about JavaScrip. 
+I am currently learning more about JavaScript. 
