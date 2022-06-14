@@ -1,6 +1,6 @@
 Hi there 👋
 
-After +5 years in Sales and Business Operations, I became a developer after graduating from Le Wagon Full Stack Web Development coding bootcamp.
+Following a +5 years experience as a Business Development Manager, I became a Developer after graduating from Le Wagon Full Stack Web Development coding bootcamp.
 
 Experience in: 
 - HTML, CSS, JavaScript
